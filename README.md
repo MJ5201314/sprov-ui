@@ -42,6 +42,11 @@ https://blog.sprov.xyz/2019/02/09/sprov-ui/
 
  maxWrongPassCount=5
 
+# 页眉页脚修改
+  
+ loginTitle=
+
+ loginFooter= <div style="text-align: center">Github - <<a href="https://github.com/yeyuehuo/sprov-ui" target="_blank">sprov-ui</a></div
 # 一键安装&升级面板
 
 >请务必使用 root 用户运行
