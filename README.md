@@ -43,6 +43,7 @@ https://blog.sprov.xyz/2019/02/09/sprov-ui/
  maxWrongPassCount=5
 
 # 页眉页脚修改
+  使用脚本进入编辑模式后输入
 ```
  loginTitle=
 
