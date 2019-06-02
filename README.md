@@ -42,10 +42,10 @@ https://blog.sprov.xyz/2019/02/09/sprov-ui/
 
  maxWrongPassCount=5
 
-# 页眉页脚修改
-  使用脚本进入编辑模式后输入
+# 登入页面页眉页脚修改
+  面板管理 使用手动修改进入编辑模式后输入
 ```
- loginTitle=
+ loginTitle=yeyuehuo
 
  loginFooter= <div style="text-align: center">Github - <a href="https://github.com/yeyuehuo/sprov-ui" target="_blank">sprov-ui</a></div>
  ```
